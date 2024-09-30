@@ -1,4 +1,4 @@
-# SkillSync : Mini-Project ISE 6th SEM
+yt-link - https://youtu.be/DZOhGTQhKiQ?si=C9IKRko0ty2w-pEd
 
 SkillSync is a web application designed to streamline the job posting, application, and selection process based on skill evaluation.
 
